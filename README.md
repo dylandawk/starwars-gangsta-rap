@@ -5,7 +5,7 @@ This project uses text analysis to generate raps from the script of Star Wars Ep
 
 It works by generating  four couplets (rhyming pairs) and an ad lib line per couplet.  The rapper and ad libber are randomly assigned from a list of characters in the original script. 
 
-I hope you have fun rapping to some of the greatest lines in cinematic history!
+I hope you have fun rapping to some of the greatest lines in cinematic history! :)
 
 Star Wars is owned by The Walt Disney Company, I don't hold any of the rights to their information.
 

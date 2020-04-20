@@ -10,6 +10,7 @@ const RootComponent = function() {
       <p>(WARNING: There may be explicit language)</p>
       <h3>Read in your best rapping voice!</h3>
       <PoemDisplay />
+      <p>Star Wars is owned by Lucasfilms. I do not own any of the rights to this information.</p>
     </div>
   );
 }

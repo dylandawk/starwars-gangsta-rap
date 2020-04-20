@@ -1,8 +1,12 @@
-Starter React App on Glitch
+Star Wars Ep. 4 Generated Rap
 ===========================
 
-This app is a very small scaffold to get you started using React and Webpack.
+This project uses text analysis to generate raps from the script of Star Wars Episode IV: A New Hope and text scraping of [a list of rap Ad lib lines](https://genius.com/Rap-genius-ad-libs-explained-lyrics).
 
-It's been copied by @starakaj for your enjoyment. You can find the original at https://glitch.com/~starter-react.
+It works by generating  four couplets (rhyming pairs) and an ad lib line per couplet.  The rapper and ad libber are randomly assigned from a list of characters in the original script. 
 
-This project relates to video 2 of 5 in the [React Starter Kit](https://glitch.com/react-starter-kit) video series.
+I hope you have fun rapping to some of the greatest lines in cinematic history!
+
+Star Wars is owned by The Walt Disney Company, I don't hold any of the rights to their information.
+
+This was built on top of a template provided by @starakaj. You can find the original at https://github.com/starakaj/poem-starter.
